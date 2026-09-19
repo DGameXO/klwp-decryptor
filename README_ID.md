@@ -1,3 +1,8 @@
+## ⚠️ Peringatan
+
+Alat ini disediakan hanya untuk penggunaan pribadi. Gunakan hanya untuk mendekripsi file atau preset milik kamu sendiri. Jangan gunakan alat ini untuk merugikan orang lain atau untuk tujuan yang tidak baik. Gunakan dengan risiko sendiri.
+
+
 # Dekripsi Preset KLWP yang Terkunci: Panduan Teknis Lengkap
 
 > Didokumentasikan oleh **DGameXO (dgxo / dgamexo)**
