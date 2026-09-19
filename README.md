@@ -1,7 +1,6 @@
-```md
-> [!WARNING]
-> This tool is provided for personal use only. Only use this to decrypt files or presets that you own. Do not use this tool to harm others or for any malicious purpose. Use at your own risk.
-```
+## ⚠️ Warning
+
+This tool is provided for personal use only. Only use this to decrypt files or presets that you own. Do not use this tool to harm others or for any malicious purpose. Use at your own risk.
 
 
 
